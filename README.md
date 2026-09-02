@@ -1,9 +1,5 @@
 # FDCS-Net V4: AI vs Real Image Classifier
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15%2B-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 A production-grade, hybrid deep learning architecture that distinguishes real photographs from AI-generated images by fusing spatial, frequency-domain, and color-stability forensic cues through attention-based fusion.
 
 ## Overview
