@@ -58,7 +58,7 @@ With generative models like Midjourney, DALL·E, and Stable Diffusion producing 
 ## Project Structure
 
 ```text
-ai-vs-real-image-classifier/
+ai-image-detection/
 ├── configs/
 │   └── config.py              # Hyperparameters, paths, classification threshold
 ├── notebooks/
@@ -79,8 +79,8 @@ ai-vs-real-image-classifier/
 ## Installation
 
 ```bash
-git clone https://github.com/Rishijain411/ai-vs-real-image-classifier.git
-cd ai-vs-real-image-classifier
+git clone https://github.com/dhruv-rathi-tech/ai-image-detection.git
+cd ai-image-detection
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
