@@ -1,4 +1,4 @@
-# FDCS-Net V4: AI vs Real Image Classifier
+# SynthLens: AI Image Detection
 
 A production-grade, hybrid deep learning architecture that distinguishes real photographs from AI-generated images by fusing spatial, frequency-domain, and color-stability forensic cues through attention-based fusion.
 
