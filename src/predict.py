@@ -29,7 +29,7 @@ SUPPORTED = {".jpg", ".jpeg", ".png", ".bmp"}
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="FDCS-Net V4 – AI vs Real image classifier"
+        description="SynthLens: AI Image Detection"
     )
     parser.add_argument(
         "--model", required=True,
